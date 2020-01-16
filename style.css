@@ -397,7 +397,7 @@ input:required {
   width: 40px;
   height: 40px;
   bottom: 40px;
-  background-color: #ff8872;
+  background-color: #fff;
   color: #ffffff;
   text-align: center;
   -webkit-transition-duration: 500ms;
@@ -625,7 +625,7 @@ input:required {
   height: 70px;
   background-color: rgba(0, 0, 0, 0.2); }
   .main-header-area.sticky {
-    background-color: #000000; }
+    background-color: #B3503E; }
 
 .classy-navbar-toggler .navbarToggler span {
   background-color: #ffffff; }
@@ -725,7 +725,7 @@ input:required {
 
 /* :: 9.0 Footer CSS */
 .bg-black {
-  background-color: black;}
+  background-color: #B3503E;}
 .footer-content {
   padding: 20px 0; }
   .footer-content .copywrite-text {
